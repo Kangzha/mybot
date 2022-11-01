@@ -1,0 +1,11 @@
+..\obj\start_manager.o: ..\DMP\start_manager.c
+..\obj\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\start_manager.o: ..\DMP\log.h
+..\obj\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\start_manager.o: ..\DMP\start_manager.h
+..\obj\start_manager.o: ..\DMP\mltypes.h
+..\obj\start_manager.o: ..\DMP\stdint_invensense.h
+..\obj\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+..\obj\start_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h

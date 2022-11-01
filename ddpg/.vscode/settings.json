@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/xrgeek/tf/devel/lib/python3/dist-packages",
+        "/opt/ros/melodic/lib/python3/dist-packages",
+        "/home/xrgeek/my_robot/devel/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/home/xrgeek/tf/devel/lib/python3/dist-packages",
+        "/opt/ros/melodic/lib/python3/dist-packages",
+        "/home/xrgeek/my_robot/devel/lib/python2.7/dist-packages"
+    ]
+}

@@ -1,0 +1,11 @@
+..\obj\message_layer.o: ..\DMP\message_layer.c
+..\obj\message_layer.o: ..\DMP\message_layer.h
+..\obj\message_layer.o: ..\DMP\mltypes.h
+..\obj\message_layer.o: ..\DMP\stdint_invensense.h
+..\obj\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+..\obj\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\message_layer.o: ..\DMP\log.h
+..\obj\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\message_layer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
